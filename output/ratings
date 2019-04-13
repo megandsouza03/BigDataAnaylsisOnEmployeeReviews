@@ -1,0 +1,6 @@
+amazon	RatingWritable{rating_1=2461, rating_2=2751, rating_3=5574, rating_4=8091, rating_5=7553}
+apple	RatingWritable{rating_1=484, rating_2=814, rating_3=2266, rating_4=4581, rating_5=4805}
+facebook	RatingWritable{rating_1=47, rating_2=49, rating_3=98, rating_4=245, rating_5=1151}
+google	RatingWritable{rating_1=155, rating_2=248, rating_3=763, rating_4=2275, rating_5=4378}
+microsoft	RatingWritable{rating_1=639, rating_2=1308, rating_3=3819, rating_4=7101, rating_5=5063}
+netflix	RatingWritable{rating_1=120, rating_2=112, rating_3=133, rating_4=205, rating_5=240}
