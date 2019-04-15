@@ -53,3 +53,6 @@ Which company has the most Reviews on Glassdoor?
 ### Overall-Ratings 
 <img width="456" alt="overall Ratings" src="https://user-images.githubusercontent.com/38237395/56101779-74bc3280-5ef5-11e9-9cfc-366b919c2a14.png">
 
+### WordCloud of Summary 
+<img width="972" alt="wcSummary" src="https://user-images.githubusercontent.com/38237395/56101926-b4cfe500-5ef6-11e9-8a1a-d39ddfc7a2be.png">
+
