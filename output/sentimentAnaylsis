@@ -1,0 +1,6 @@
+amazon	SentimentWritable{sentiment_0=0, sentiment_1=2423, sentiment_2=30478, sentiment_3=23523, sentiment_4=2840}
+apple	SentimentWritable{sentiment_0=0, sentiment_1=836, sentiment_2=12106, sentiment_3=15516, sentiment_4=3348}
+facebook	SentimentWritable{sentiment_0=0, sentiment_1=84, sentiment_2=1142, sentiment_3=2265, sentiment_4=684}
+google	SentimentWritable{sentiment_0=0, sentiment_1=431, sentiment_2=6480, sentiment_3=10602, sentiment_4=2336}
+microsoft	SentimentWritable{sentiment_0=0, sentiment_1=1466, sentiment_2=16222, sentiment_3=22884, sentiment_4=2672}
+netflix	SentimentWritable{sentiment_0=0, sentiment_1=95, sentiment_2=670, sentiment_3=1029, sentiment_4=108}

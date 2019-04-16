@@ -17,7 +17,7 @@ public class mapper extends Mapper<LongWritable, Text, Text, IntWritable> {
             throws IOException, InterruptedException {
         wordnet = new RiWordnet();
         String[] data = value.toString().split(",");
-        StringTokenizer tokenizer = new StringTokenizer(data[]);
+        StringTokenizer tokenizer = new StringTokenizer(data[6]);
         if(data[1].equals("microsoft")) {
         while (tokenizer.hasMoreTokens()) {
 
