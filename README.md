@@ -62,3 +62,10 @@ Values Ranges [0: Negative , 4: Positive]
 
 Sentiment Analysis using Standford Core NLP {Pipeline used tokenize, split, parse, sentiment}
 <img width="707" alt="SentimentAnaylsis" src="https://user-images.githubusercontent.com/38237395/56178585-d00f2300-5fd0-11e9-87aa-8ae446d77349.png">
+
+
+### Advice to Managment JSON
+Data Organization Patterns- Structured to Hierarchical
+
+<img width="972" alt="AdviceToMngemtJSON" src="https://user-images.githubusercontent.com/38237395/56178956-187b1080-5fd2-11e9-9308-a40cbdeb9be3.png">
+
