@@ -59,5 +59,6 @@ Which company has the most Reviews on Glassdoor?
 ### Sentiment Analysis of Summary
 Polarity in Summary 
 Values Ranges [0: Negative , 4: Positive]
+
 Sentiment Analysis using Standford Core NLP {Pipeline used tokenize, split, parse, sentiment}
 <img width="707" alt="SentimentAnaylsis" src="https://user-images.githubusercontent.com/38237395/56178585-d00f2300-5fd0-11e9-87aa-8ae446d77349.png">
