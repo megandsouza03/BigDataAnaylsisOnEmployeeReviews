@@ -73,6 +73,7 @@ Data Organization Patterns- Structured to Hierarchical
 ### Secondary Sorting
 KEY {Company : Place}
 MapReduce Job that listing the total number of reviews Grouped by Company and Sorted by Places.
+
 <img width="590" alt="SecSorting" src="https://user-images.githubusercontent.com/38237395/56843748-69f98a00-6873-11e9-9baf-e39bfeb43e8c.png">
 
 ### Average Overall Ratings {Top 2} using PIG
