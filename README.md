@@ -69,3 +69,17 @@ Data Organization Patterns- Structured to Hierarchical
 
 <img width="972" alt="AdviceToMngemtJSON" src="https://user-images.githubusercontent.com/38237395/56178956-187b1080-5fd2-11e9-9308-a40cbdeb9be3.png">
 
+
+### Secondary Sorting
+KEY {Company : Place}
+MapReduce Job that listing the total number of reviews Grouped by Company and Sorted by Places.
+
+<img width="590" alt="SecSorting" src="https://user-images.githubusercontent.com/38237395/56843748-69f98a00-6873-11e9-9baf-e39bfeb43e8c.png">
+
+### Average Overall Ratings {Top 2} using PIG
+
+<img width="209" alt="AverageRatings" src="https://user-images.githubusercontent.com/38237395/56843759-9e6d4600-6873-11e9-9af9-1509e7ec9733.png">
+
+### Filtering the Most Helpful Reviews using PIG 
+
+<img width="1279" alt="HelpfulReviews" src="https://user-images.githubusercontent.com/38237395/56843877-0bcda680-6875-11e9-9d4f-c1ade335714b.png">
